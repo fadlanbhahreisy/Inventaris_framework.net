@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tugas_uts/1.0.0": {
+        "runtime": {
+          "Tugas_uts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas_uts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
